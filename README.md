@@ -25,7 +25,7 @@ Este projeto é um sistema de gerenciamento de leituras (CRUD) desenvolvido como
 ## Passo a Passo
 
     Clonar o repositório utilize git ou apenas baixa o zip
-    git clone [URL_DO_REPOSITORIO]
+    git clone https://github.com/RicardoHenriqueeee/Projeto-Pucrs-Fase-2.git
     
     Instalar dependências
     npm install
